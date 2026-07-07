@@ -122,7 +122,7 @@ A IA irá te apresentar todas as características desse tipo de de escada segund
     Cenário de Aplicação (Exemplo do seu caso): Para edifícios residenciais (Divisão A-2), a escada EP é exigida para alturas entre 12 m e 30 m. 
     Caso o pavimento tenha até 750 m², ela pode ser utilizada em prédios de até 50 metros de altura, substituindo a exigência de escada à prova de fumaça (PF).
 
-Esse é só um exemplo de funcionamento no caso de desenvolvimento de um projeto do 0, no cotidiano é possível tirar qualquer dúvida sobre qualquer tema relacionado a PPCI de edifícios residênciais, sem a necessidade de passar o contexto completo, ou até mesmo para preencher legendas do projeto, é possível perguntar especificamente em qual instrução técnica, e até em qual tópico é falado sobre determinado assunto. Por exemplo:  
+Esse é só um exemplo de funcionamento no caso de desenvolvimento de um projeto do 0, no cotidiano é possível tirar qualquer dúvida sobre qualquer tema relacionado a PPCI de edifícios residênciais, sem a necessidade de passar o contexto completo. Até mesmo para preencher legendas do projeto, é possível perguntar especificamente em qual instrução técnica, e até em qual tópico, é falado sobre determinado assunto. Por exemplo:  
 
     Em qual instrução técnica e em qual tópico é especificado os detalhes sobre a "Reserva Técnica de Incêndio"
 
