@@ -4,6 +4,8 @@ Facilitando o desenvolvimento de projetos de prevenção e combate a incêndio (
 Para os iniciantes no densenvolvimento de PPCI (assim como eu já fui) e até para os experientes, pois é inevitável esquecer algum detalhe com o tempo, esse recurso economiza horas e horas de pesquisas em mais de 50 instruções técnicas do corpo de bombeiros pra tirar pequenas dúvidas. A utilização da IA permite ao projetista focar no desenvolvimento do desenho feito no AutoCAD, Revit ou qualquer outro software relacionado. 
 
 A IA recebeu como fonte as 47 principais instruções técnicas do corpo de bombeiros de SP para projetos de edifícios residenciais, além do decreto 69.118/24 para classificar a categoria da edificação.
+
+[Notebooklm - Projeto de Combate a Incêndio em SP - Edifícios Residenciais](https://notebooklm.google.com/notebook/24ef1b89-c34d-4b6a-9b15-597333e9475d)  
   
 # Utilização
 Recomendo que comece passando o contexto da edificação, por exemplo: 
